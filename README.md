@@ -81,6 +81,7 @@ respectively, to true.
 
 Canvas mode supports several other options:
 
+* axisLabelFontWeight (string): the font weight (default: normal)
 * axisLabelFontSizePixels (int): the size, in pixels, of the font (default: 14)
 * axisLabelFontFamily (string): the font family of the font (default:
   sans-serif)
